@@ -1198,223 +1198,1360 @@
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Lagger Zurbriggen",
+                "direccion": "Las Heras 5401",
+                "telefono": "4603331",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.6928727030754, -31.61927556451754]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Lencinas",
+                "direccion": "Balcarce 2384",
+                "telefono": "4811613",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.70128679275512, -31.63724234646239]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia María Selva",
+                "direccion": "Av A. del valle 6600",
+                "telefono": "4847455",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.727945268154144, -31.57688333079243]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Santiago",
+                "direccion": "Necochea 4162",
+                "telefono": "4811560",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.69255888462067, -31.63136190178939]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Vinderola",
+                "direccion": "Bv Pellegrini 3060",
+                "telefono": "4531674",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.70923954248428, -31.634173143277657]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Leiva",
+                "direccion": "25 de Mayo esq Rioja",
+                "telefono": "4537968",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.70565342903137, -31.64585795366672]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Mercado central",
+                "direccion": "San Gerónimo 2179",
+                "telefono": "4597200",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.70908665657043, -31.650091251313267]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Morales",
+                "direccion": "Av A. del Valle 5827",
+                "telefono": "4696396",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.696777999401085, -31.61463428619399]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Nebiolo",
+                "direccion": "Av A. del Valle 7781",
+                "telefono": "4609883",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.6920599937439, -31.596539770939152]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Ortiz de Zárate",
+                "direccion": "Av J.J. Paso 3299",
+                "telefono": "4599865",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.72075426578522, -31.661874512744582]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Wagner",
+                "direccion": "Av F. Zuviría 4201",
+                "telefono": "4531215",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.705304741859436, -31.628203435713967]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Wuilloud",
+                "direccion": "San Jerónimo 1801",
+                "telefono": "4597895",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.71033120155334, -31.65454125764439]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Ghersi",
+                "direccion": "Pte Roca 2993",
+                "telefono": "(0342) 5808242",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.70277273654938, -31.61472793632205]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Lauxmann",
+                "direccion": "Bv. Zavalla 1417",
+                "telefono": "4599610",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.72339624166489, -31.656760473119217]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Theiller",
+                "direccion": "Av. Gral. Paz 5773",
+                "telefono": "4604334",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.68408846855163, -31.617619623169887]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Trucco",
+                "direccion": "Las Heras 4501",
+                "telefono": "(0342) 4528523",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.69489508867264, -31.627614208915812]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "nombre": "Farmacia ",
-                "direccion": "",
-                "telefono": "",
+                "nombre": "Farmacia Throendly",
+                "direccion": "Av. Blas Parera 8235",
+                "telefono": "(0342) 4895440",
                 "localidad": "Santa Fe"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.704706609249115, -31.611817885879656]
+                "coordinates": [-60.72600066661835, -31.585356009413097]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Mazzali",
+                "direccion": "Juan de Garay 2915",
+                "telefono": "(0342) 4581286",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71237236261367, -31.65182881120736]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Pellegrini",
+                "direccion": "Bv. Pellegrini 3465",
+                "telefono": "(0342) 4521233",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.714523494243615, -31.63327793993646]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Plank",
+                "direccion": "Av. Gral Paz 4921",
+                "telefono": "(0342) 4121491",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.68912029266357, -31.624777646291232]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Strada",
+                "direccion": "Bv. Zavalla 1067",
+                "telefono": "(0342) 4599798",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.72445571422576, -31.66033119829793]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Ignacio Azanza",
+                "direccion": "Av Lopez y Planes 3901",
+                "telefono": "(0342) 4526526",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71397900581359, -31.62929052652407]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Liliana Martinez",
+                "direccion": "Belgrano 6503",
+                "telefono": "(0342) 4606780",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.69063574075698, -31.609184143280896]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Marcelo Galizzi",
+                "direccion": "Av Blas Parera 8894",
+                "telefono": "(0342) 4840578",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.72795867919921, -31.57687190540914]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Mario Martinez",
+                "direccion": "Av Aristóbulo del Valle 4499",
+                "telefono": "(0342) 4531597",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.70032119750976, -31.6264859890513]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Pardo",
+                "direccion": "9 de Julio 3443",
+                "telefono": "(0342) 4566267",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.706007480621345, -31.635536484874034]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Sabio",
+                "direccion": "Angel Casanello 898",
+                "telefono": "(0342) 4608172",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.676953792572014, -31.613065061494765]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia San Lorenzo",
+                "direccion": "Av Freyre 1598",
+                "telefono": "(0342) 4593487",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.72145298123359, -31.655110907001543]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Santiváñez",
+                "direccion": "Estanislao Zeballos 4453",
+                "telefono": "(0342) 4892739",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.718560218811035, -31.6002681545962]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Tonini",
+                "direccion": "Avellaneda 3498",
+                "telefono": "(0342) 4538391",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.68803064525128, -31.63892134500007]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Zimmerman",
+                "direccion": "Padre Genesio 2971",
+                "telefono": "(0342) 4691616",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.69773554801941, -31.598952271524254]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Morante",
+                "direccion": "El Pozo.M .8.Vda.43",
+                "telefono": "(0342) 4511485",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7266374, -31.6442434]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Queglas",
+                "direccion": "12 de Infantería 4400 - Las Flores II - M 8 - Dto.379",
+                "telefono": "(0342) 4897439",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7304521, -31.5750544]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Salvatierra",
+                "direccion": "Av Gral Lopez 3272",
+                "telefono": "(0342) 4598352",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.718345642089844, -31.655570961949646]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Sileoni",
+                "direccion": "Angel Casanello 519",
+                "telefono": "(0342) 4604940",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.67299216985702, -31.614008426821663]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Judith Acevedo",
+                "direccion": "Castelli 3642",
+                "telefono": "0342-155329661",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7083371216378, -31.603420979474343]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Montes",
+                "direccion": "Av. Gral Paz 6765",
+                "telefono": "0342-4605026",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.677672613708886, -31.60907508436396]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Santa Fe",
+                "direccion": "Saavedra 1822",
+                "telefono": "4592301 - 4599707",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.717958745088865, -31.652742499414245]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Sen",
+                "direccion": "Salvador del Carril 1672",
+                "telefono": "0342-4605463",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.68790060028192, -31.62015781588531]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Suppo",
+                "direccion": "Av. Aristobulo del Valle 6897",
+                "telefono": "0342-4604141",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.69275971656983, -31.604949687541104]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Ugolini",
+                "direccion": "Av. Gorriti 4512",
+                "telefono": "0342-4802555",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71486161340923, -31.585338113902896]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Bonazzola Denise",
+                "direccion": "Gral López 2740",
+                "telefono": "0342-156139373",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71140220462381, -31.656715400556802]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia López",
+                "direccion": "Av Lopez y Planes 4267",
+                "telefono": "0342-4534829",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71394109594187, -31.625696015123836]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Mai",
+                "direccion": "Av Aristobulo del Valle 7302",
+                "telefono": "0342-4602224",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.691731184531434, -31.601134989878936]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Martinez Juan José",
+                "direccion": "Urquiza 1859",
+                "telefono": "0342-4599949",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.715294571209384, -31.65300595776822]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Méndez",
+                "direccion": "Güemes 4356",
+                "telefono": "0342-4531945",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.6867574148171, -31.630725039872218]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Naito",
+                "direccion": "Mendoza 4098",
+                "telefono": "0342-4563842",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.726578490330375, -31.644206013528233]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Pasteur",
+                "direccion": "Marcial Candiotti 3499",
+                "telefono": "0342-4520608",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.69556661782887, -31.63733617274003]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Rojas",
+                "direccion": "Blas Parera 7202",
+                "telefono": "0342-4892747",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.72304392630359, -31.59533764374118]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Valetti",
+                "direccion": "Av. Gral Paz 6440",
+                "telefono": "0342-4692747",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.679567318699135, -31.612092988136926]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Junges",
+                "direccion": "Güemes 3701",
+                "telefono": "0342-4561203",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.6885345731616, -31.636646886107116]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Long",
+                "direccion": "Av Aristobulo del Valle 4026",
+                "telefono": "0342-4552457",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.70092223474357, -31.63089083467091]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Ortega",
+                "direccion": "Blas Parera 8374",
+                "telefono": "0342-4842593",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.72613608238575, -31.583755197730717]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Pedro A. Kornijuk",
+                "direccion": "Av Facundo Zuviria 5323",
+                "telefono": "0342-4882156",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.70550489310927, -31.617249016947387]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Sartor",
+                "direccion": "Ituzaingó 2169",
+                "telefono": "0342-4555412",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.698964647505264, -31.638512090982648]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Valverde",
+                "direccion": "1 de mayo 2215",
+                "telefono": "0342-4535891",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.711469565561984, -31.649257463621904]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Verónica Cano",
+                "direccion": "Suipacha 2912",
+                "telefono": "0342-4558880",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.70866803555523, -31.639159244661148]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Vignolo",
+                "direccion": "Av Gral Paz 4698",
+                "telefono": "0342-4538276",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.690405920696364, -31.626716461564783]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Pacce",
+                "direccion": "Av Aristobulo del Valle 4900",
+                "telefono": "0342-4558517",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.69915121636052, -31.622822703116327]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Peiro",
+                "direccion": "Av Facundo Zuviría 6253",
+                "telefono": "0342-4890670",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.70409966408832, -31.608489878746877]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Stricker",
+                "direccion": "Chacabuco 2116",
+                "telefono": "0342-4539095",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.69682122301906, -31.633948176675347]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Zapata Morán",
+                "direccion": "Blas Parera 6751",
+                "telefono": "0342-4891979",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.72180537535643, -31.600089761549434]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Labath",
+                "direccion": "Santiago del Estero 3142",
+                "telefono": "0342-4555146",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.711056486203425, -31.636199696298412]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Martinez",
+                "direccion": "Av Galicia 1519",
+                "telefono": "0342-4606375",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.682430784186714, -31.60749635247314]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Mónica Wagner",
+                "direccion": "Marcial Candioti 3899",
+                "telefono": "0342-4522242",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.69441433368125, -31.633541425195293]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Rita Martinez",
+                "direccion": "Av Aristobulo del Valle 10479",
+                "telefono": "0342-4694874",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.69000338097957, -31.570497244039867]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Rojas Sotelo",
+                "direccion": "Alvear 6303",
+                "telefono": "0342-4607603",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.68903680311939, -31.61145520851271]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Pescetti Maximiliano",
+                "direccion": "Mendoza 2676",
+                "telefono": "0342-4522928",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.70829263785935, -31.648868483642314]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Scalzo",
+                "direccion": "Gobernador Vera 3206",
+                "telefono": "0342-4553083",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71350082772994, -31.64192561335349]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Vilarrubi",
+                "direccion": "Av Peñaloza 7512",
+                "telefono": "0342-4889996",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71198495226155, -31.59454529785101]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Imoberdof",
+                "direccion": "Fray C Rodriguez 3889",
+                "telefono": "0342-4884801",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71627000141176, -31.618397503842687]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Imvinkelried",
+                "direccion": "Lavalle 4201",
+                "telefono": "0342-4566576",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.68827072434829, -31.631946953587075]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Mansilla",
+                "direccion": "9 de Julio 1181",
+                "telefono": "0342-4598798",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.71369368296856, -31.66119220117026]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Menapace",
+                "direccion": "Blas Parera 7831",
+                "telefono": "0342-4890660",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.72495483817265, -31.589476156979693]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Pescetti",
+                "direccion": "P Genesio 1901",
+                "telefono": "0342-4604447",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.685022876602645, -31.601706177364875]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Wagner Burgués",
+                "direccion": "Rivadavia 3098",
+                "telefono": "0342-4561500",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.702457629306906, -31.640609764009636]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Farmacia Zentner",
+                "direccion": "San Gerónimo 3101",
+                "telefono": "0342-4532805",
+                "localidad": "Santa Fe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.706085638948466, -31.639736698607706]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Ricchieri 3296",
+                "nombre": "Farmacia Erica Tepp",
+                "telefono": "474 1041",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7817688, -31.6857955]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Av. 7 de Marzo 1882",
+                "nombre": "Farmacia Stessens",
+                "telefono": "474 3669",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7608077, -31.6669908]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Av. Luján 2979",
+                "nombre": "Farmacia Villata",
+                "telefono": "474 3371",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7702598, -31.6745259]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Av. 7 de Marzo 1527",
+                "nombre": "Farmacia Escobar",
+                "telefono": "474 0133",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7568673, -31.6674356]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Hernandarias 1793",
+                "nombre": "Farmacia Olivero",
+                "telefono": "475 1075",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7607805, -31.6742095]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Alberdi 2154",
+                "nombre": "Farmacia Sauco",
+                "telefono": "474 6180",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7670865, -31.6815499]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "25 de Mayo 1654",
+                "nombre": "Farmacia Cirelli",
+                "telefono": "474 0427",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7621055, -31.6621363]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "La Rioja 2295",
+                "nombre": "Farmacia Gómez",
+                "telefono": "475 3219",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7670069, -31.6743589]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "M.Candioti 3226",
+                "nombre": "Farmacia Zimmermann",
+                "telefono": "474 7279",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7567012, -31.6789138]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Av.Luján 3636",
+                "nombre": "Farmacia Marta Tepp",
+                "telefono": "474 4804",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7747004, -31.6800996]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Obispo Gelabert 2198",
+                "nombre": "Farmacia Bonino",
+                "telefono": "474 4484",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7634425, -31.6631545]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "H.Yrigoyen 2278",
+                "nombre": "Farmacia Martínez",
+                "telefono": "474 3995",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7639439, -31.6682866]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Av .7 de Marzo 1760",
+                "nombre": "Farmacia Pescetti J",
+                "telefono": "474 0375",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7593549, -31.6671396]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Ej.Argentino 2695",
+                "nombre": "Farmacia Berta",
+                "telefono": "474 9893",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7707336, -31.6725206]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Mariano Candioti 2493",
+                "nombre": "Farmacia Cruz",
+                "telefono": "474 3501",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.755361, -31.6722068]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "25 de Mayo 2017",
+                "nombre": "Farmacia Mayoráz",
+                "telefono": "474 7057",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7630673, -31.6654569]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Av .7 de Marzo 2601",
+                "nombre": "Farmacia Macagno",
+                "telefono": "474 2196",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7685221, -31.6660866]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "M.Candioti 2801",
+                "nombre": "Farmacia N.Caporizzo",
+                "telefono": "474 5858",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7557747, -31.6750249]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Av.Luján 2659",
+                "nombre": "Farmacia Marcolini",
+                "telefono": "474 1354",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.767988, -31.6715788]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Sarmiento 1776",
+                "nombre": "Farmacia Contini",
+                "telefono": "474 0422",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7585819, -31.6621242]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "7 de Marzo 2118",
+                "nombre": "Farmacia San Roque",
+                "telefono": "474 0466",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7632973, -31.6666989]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Av.Luján 2468",
+                "nombre": "Farmacia Mariana Gómez",
+                "telefono": "474 2737",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7665944, -31.6697947]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Sarmiento 2343",
+                "nombre": "Farmacia Quassolo",
+                "telefono": "474 7428",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7646717, -31.6612234]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Belgrano 3018",
+                "nombre": "Farmacia Terenzi",
+                "telefono": "474 4371",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7630715, -31.6761309]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Belgrano 3405",
+                "nombre": "Farmacia Adrian Carrizo",
+                "telefono": "474 1865",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7636816, -31.6792904]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "25 de Mayo 1878",
+                "nombre": "Farmacia Firmani",
+                "telefono": "474 4847",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7625297, -31.6640733]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direccion": "Mariano Candioti 3677",
+                "nombre": "Farmacia Palacin",
+                "telefono": "4741674",
+                "localidad": "Santo Tome"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.7575749, -31.6831116]
             }
         }
+
+
     ]
 }
