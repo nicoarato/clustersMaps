@@ -33,11 +33,6 @@ export class AppComponent implements OnInit {
       zoom: 13,
     });
 
-    // this.map.addControl(new MapboxGeocoder({
-    //   accessToken: mapboxgl.accessToken,
-    //   mapboxgl: mapboxgl
-    // })
-    // );
     // Add zoom and rotation controls to the map.
     this.map.addControl(new mapboxgl.NavigationControl());
     this.map.addControl(new mapboxgl.GeolocateControl({
@@ -47,8 +42,10 @@ export class AppComponent implements OnInit {
       trackUserLocation: true
     }));
 
+
     // //-----------------CLusters-------------------------------
     this.map.on('load', () => {
+
       // Add a new source from our GeoJSON data and
       // set the 'cluster' option to true. GL-JS will
       // add the point_count property to your source data.
@@ -72,7 +69,7 @@ export class AppComponent implements OnInit {
           //   * Yellow, 30px circles when point count is between 100 and 750
           //   * Pink, 40px circles when point count is greater than or equal to 750
           // 'circle-color': ['step', ['get', 'point_count'], '#a98fe7', 100, '#e4ab6b', 750, '#f28cb1'],
-          'circle-color': ['step', ['get', 'point_count'], '#ffbebc', 100, '#b0c2f2', 750, '#fcb7af'],
+          'circle-color': ['step', ['get', 'point_count'], '#ffbebc', 50, '#b0c2f2', 750, '#fcb7af'],
           'circle-radius': ['step', ['get', 'point_count'], 20, 100, 30, 750, 40]
         }
       });
@@ -84,7 +81,7 @@ export class AppComponent implements OnInit {
         filter: ['has', 'point_count'],
         layout: {
           'text-field': '{point_count_abbreviated}',
-          'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+          'text-font': ['Montserrat Bold', 'Arial Unicode MS Bold'],
           'text-size': 12
         }
       });
@@ -101,6 +98,21 @@ export class AppComponent implements OnInit {
           'circle-stroke-color': '#77dd77'
         }
       });
+
+      this.map.addLayer({
+        'id': 'farmacias',
+        'type': 'circle',
+        'source': 'farmacias',
+        'filter': [
+          'all',
+          ['!=', ['get', 'cluster'], true]
+        ],
+        'paint': {
+          'circle-color': '#383a3e',
+          'circle-radius': 5
+        }
+      });
+
 
 
 
@@ -140,7 +152,9 @@ export class AppComponent implements OnInit {
         new mapboxgl.Popup()
           .setLngLat(coordinates)
           .setHTML(
-            e.features[0].properties.nombre + '<br>' + e.features[0].properties.telefono
+            `<strong> ${e.features[0].properties.nombre}</strong> <br>
+            ${e.features[0].properties.direccion}<br>
+            ${e.features[0].properties.telefono}`
           ).addTo(this.map);
       });
 
