@@ -13,24 +13,32 @@ import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css';
 export class AppComponent implements OnInit {
   map: mapboxgl.Map;
   markers: mapboxgl.Marker[] = [];
-
+  file = '/assets/geojason.json';
   ngOnInit() {
     setTimeout(e =>
       this.cargarMapa(), 1000);
-    // setTimeout(e => this.cargarMarkers(this.file), 1000);
   }
 
-
   cargarMapa() {
+    const hoy = new Date();
+    const hora = hoy.getHours();
+    let estilo;
+    if (hora < 19 && hora > 7) {
+      estilo = 'mapbox://styles/mapbox/streets-v11';
+    } else {
+      estilo = 'mapbox://styles/mapbox/navigation-night-v1';
+    }
     mapboxgl.accessToken = environment.mapboxKey;
     this.map = new mapboxgl.Map({
       container: 'map',
+      style: estilo,
       // style: 'mapbox://styles/mapbox/streets-v11',
       // style: 'mapbox://styles/mapbox/navigation-night-v1',
       // style: 'mapbox://styles/mapbox/light-v10',
-      style: 'mapbox://styles/mapbox/dark-v10',
+      // style: 'mapbox://styles/mapbox/dark-v10',
       center: [-60.71562051773071, -31.635150549331115],
       zoom: 13,
+      pitch: 0,
     });
 
     // Add zoom and rotation controls to the map.
@@ -41,6 +49,8 @@ export class AppComponent implements OnInit {
       },
       trackUserLocation: true
     }));
+
+
 
 
     // //-----------------CLusters-------------------------------
@@ -69,7 +79,7 @@ export class AppComponent implements OnInit {
           //   * Yellow, 30px circles when point count is between 100 and 750
           //   * Pink, 40px circles when point count is greater than or equal to 750
           // 'circle-color': ['step', ['get', 'point_count'], '#a98fe7', 100, '#e4ab6b', 750, '#f28cb1'],
-          'circle-color': ['step', ['get', 'point_count'], '#ffbebc', 50, '#b0c2f2', 750, '#fcb7af'],
+          'circle-color': ['step', ['get', 'point_count'], '#bb86fc', 50, '#cf6699', 750, '#cf6699'],
           'circle-radius': ['step', ['get', 'point_count'], 20, 100, 30, 750, 40]
         }
       });
@@ -81,8 +91,9 @@ export class AppComponent implements OnInit {
         filter: ['has', 'point_count'],
         layout: {
           'text-field': '{point_count_abbreviated}',
-          'text-font': ['Montserrat Bold', 'Arial Unicode MS Bold'],
-          'text-size': 12
+          'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+          'text-size': 12,
+
         }
       });
 
@@ -92,30 +103,46 @@ export class AppComponent implements OnInit {
         source: 'farmacias',
         filter: ['!', ['has', 'point_count']],
         paint: {
-          'circle-color': '#aff8db',
+          'circle-color': '#03dac6',
           'circle-radius': 10,
           'circle-stroke-width': 1,
           'circle-stroke-color': '#77dd77'
         }
       });
 
-      this.map.addLayer({
-        'id': 'farmacias',
-        'type': 'circle',
-        'source': 'farmacias',
-        'filter': [
-          'all',
-          ['!=', ['get', 'cluster'], true]
-        ],
-        'paint': {
-          'circle-color': '#383a3e',
-          'circle-radius': 5
-        }
-      });
+      // this.map.addLayer({
+      //   'id': '3d-buildings',
+      //   'source': 'composite',
+      //   'source-layer': 'building',
+      //   'filter': ['==', 'extrude', 'true'],
+      //   'type': 'fill-extrusion',
+      //   'minzoom': 15,
+      //   'paint': {
+      //     'fill-extrusion-color': '#aaa',
 
-
-
-
+      //     // use an 'interpolate' expression to add a smooth transition effect to the
+      //     // buildings as the user zooms in
+      //     'fill-extrusion-height': [
+      //       'interpolate',
+      //       ['linear'],
+      //       ['zoom'],
+      //       15,
+      //       0,
+      //       15.05,
+      //       ['get', 'height']
+      //     ],
+      //     'fill-extrusion-base': [
+      //       'interpolate',
+      //       ['linear'],
+      //       ['zoom'],
+      //       15,
+      //       0,
+      //       15.05,
+      //       ['get', 'min_height']
+      //     ],
+      //     'fill-extrusion-opacity': 0.6
+      //   }
+      // });
 
 
       // inspect a cluster on click
@@ -149,6 +176,7 @@ export class AppComponent implements OnInit {
           coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
         }
 
+
         new mapboxgl.Popup()
           .setLngLat(coordinates)
           .setHTML(
@@ -158,13 +186,23 @@ export class AppComponent implements OnInit {
           ).addTo(this.map);
       });
 
+      this.map.on('mouseenter', 'unclustered-point', () => {
+        this.map.getCanvas().style.cursor = 'pointer';
+      });
+      this.map.on('mouseleave', 'unclustered-point', () => {
+        this.map.getCanvas().style.cursor = '';
+      });
       this.map.on('mouseenter', 'clusters', () => {
         this.map.getCanvas().style.cursor = 'pointer';
       });
       this.map.on('mouseleave', 'clusters', () => {
         this.map.getCanvas().style.cursor = '';
       });
+
+
     });
 
   }
+
+
 }
